@@ -1,0 +1,25 @@
+[
+    {
+        "_Artist__id": "780d0b62-3398-4b04-b950-c93df5ffac8d",
+        "_Artist__name": "The Beatles",
+        "_Artist__genre": "Rock",
+        "_MusicStore__id": "6328f61e-e861-46e0-8b1e-76052f368212"
+    },
+    {
+        "_Artist__id": "682fc419-0ab0-467a-9fa2-b520da757008",
+        "_Artist__name": "Michael Jackson",
+        "_Artist__genre": "Pop",
+        "_MusicStore__id": "0096c5dd-0934-4067-9a89-b7a0717c4b95"
+    },
+    {
+        "_Artist__id": "b53c8e86-5f26-4185-9ed4-4427f6957e06",
+        "_Artist__name": "test",
+        "_Artist__genre": "Unknown",
+        "_MusicStore__id": "93c35fef-571b-4461-a60b-22f7102bc2f5"
+    },
+    {
+        "_Artist__id": "f7e745cd-7971-4d9c-a162-397744720ba4",
+        "_Artist__name": "\u041a\u0420\u0423\u0422\u041e\u0419 \u0418\u0421\u041f\u041e\u041b\u041d\u0418\u0422\u0415\u041b\u042c ",
+        "_Artist__genre": "Unknown"
+    }
+]

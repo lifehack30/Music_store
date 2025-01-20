@@ -1,0 +1,33 @@
+[
+    {
+        "_Album__id": "5bcde9fa-1d62-4499-8da2-310ad5c4d103",
+        "_Album__title": "Abbey Road",
+        "_Album__artist": "The Beatles",
+        "_Album__year": 1969,
+        "_Album__price": 29.99,
+        "_MusicStore__id": "e11aaba2-ecd2-4dc0-b2b8-5db9fc52ab26"
+    },
+    {
+        "_Album__id": "1f169926-9d83-49e1-9125-50d9f8def084",
+        "_Album__title": "Thriller",
+        "_Album__artist": "Michael Jackson",
+        "_Album__year": 1982,
+        "_Album__price": 19.99,
+        "_MusicStore__id": "d6117827-ffff-4e65-8858-e0debb151784"
+    },
+    {
+        "_Album__id": "cc02e6ce-a030-4276-992e-c45426bae22e",
+        "_Album__title": "test",
+        "_Album__artist": "test",
+        "_Album__year": 1999,
+        "_Album__price": 29.9,
+        "_MusicStore__id": "5a8c1667-d7a8-4432-9697-2171e2d38a05"
+    },
+    {
+        "_Album__id": "5e972dae-5a7e-48e9-982c-b66e17a2ddd4",
+        "_Album__title": "\u041a\u0440\u0443\u0442\u043e\u0439 \u041f\u0410\u041d\u041a \u0420\u041e\u041a \u0430\u043b\u044c\u0431\u043e\u043c",
+        "_Album__artist": "\u041a\u0420\u0423\u0422\u041e\u0419 \u0418\u0421\u041f\u041e\u041b\u041d\u0418\u0422\u0415\u041b\u042c ",
+        "_Album__year": 2043,
+        "_Album__price": 902.0
+    }
+]

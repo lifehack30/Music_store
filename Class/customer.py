@@ -27,7 +27,7 @@ class Customer:
     @email.setter
     def email(self, email):
         if not self.is_valid_email(email):
-            raise InvalidEmailError("Invalid email address")
+            raise InvalidEmailError("Не правильный емейл")
         self.__email = email
 
     def is_valid_email(self, email):
@@ -37,4 +37,4 @@ class Customer:
     @timer
     @counter
     def __str__(self):
-        return f"Customer(ID: {self.id}, Name: {self.name}, Email: {self.email})"
+        return f"Клиент(ID: {self.id}, Имя: {self.name}, Почта: {self.email})"

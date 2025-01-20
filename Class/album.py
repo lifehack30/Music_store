@@ -47,36 +47,36 @@ class Album:
     @price.setter
     def price(self, price):
         if price < 0:
-            raise InvalidPriceError("Price cannot be negative")
+            raise InvalidPriceError("Негативная цена не принимается, уйди")
         self.__price = price
 
     def __str__(self):
-        return f"Album(ID: {self.id}, Title: {self.title}, Artist: {self.artist}, Year: {self.year}, Price: {self.price})"
+        return f"Альбом(ID: {self.id}, Название: {self.title}, Артист: {self.artist}, Год: {self.year}, Цена: {self.price})"
 
     @timer
     @counter
     def __add__(self, other):
         if isinstance(other, Album):
             return self.price + other.price
-        raise TypeError("Operands must be instances of Album")
+        raise TypeError("неа")
 
     @timer
     @counter
     def __sub__(self, other):
         if isinstance(other, Album):
             return self.price - other.price
-        raise TypeError("Operands must be instances of Album")
+        raise TypeError("Неа")
 
     @timer
     @counter
     def __mul__(self, other):
         if isinstance(other, (int, float)):
             return self.price * other
-        raise TypeError("Operand must be a number")
+        raise TypeError("Циферки, не надо другого")
 
     @timer
     @counter
     def __truediv__(self, other):
         if isinstance(other, (int, float)):
             return self.price / other
-        raise TypeError("Operand must be a number")
+        raise TypeError("Циферки, не надо другого")

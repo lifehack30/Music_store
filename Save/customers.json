@@ -1,0 +1,20 @@
+[
+    {
+        "_Customer__id": "b6e271a1-5440-4376-99c0-fad3cd431555",
+        "_Customer__name": "John Doe",
+        "_Customer__email": "john.doe@example.com",
+        "_MusicStore__id": "882c6220-66bf-4210-a13e-6cdff2d31189"
+    },
+    {
+        "_Customer__id": "1f92388f-ccf3-47ba-9fa3-daf04f5fa8bf",
+        "_Customer__name": "Jane Smith",
+        "_Customer__email": "jane.smith@example.com",
+        "_MusicStore__id": "5be0e7c2-566f-4ecc-bbbb-1d371838099e"
+    },
+    {
+        "_Customer__id": "80371e7e-3d3b-443b-9778-8bcd5409d2fe",
+        "_Customer__name": "\u042f\u043c\u0430 \u0428\u0438\u043d\u0430",
+        "_Customer__email": "fgoo@mail.ru",
+        "_MusicStore__id": "b920ab8e-f58c-41a0-a154-4d30869ea861"
+    }
+]

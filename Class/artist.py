@@ -30,4 +30,4 @@ class Artist:
     @timer
     @counter
     def __str__(self):
-        return f"Artist(ID: {self.id}, Name: {self.name}, Genre: {self.genre})"
+        return f"Артист(ID: {self.id}, ФИО: {self.name}, Пол: {self.genre})"
